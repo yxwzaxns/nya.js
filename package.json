@@ -1,6 +1,6 @@
 {
-  "name": "nya",
-  "version": "1.0.0",
+  "name": "nya.js",
+  "version": "1.0.1",
   "description": "Binding custom events when a variable changes",
   "main": "nya.js",
   "scripts": {

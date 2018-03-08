@@ -2,7 +2,7 @@
 Binding custom events when a variable changes.
 
 # Installation
-npm install --save nya.js
+    npm install --save nya.js
 # Usage
 
 ## es6+

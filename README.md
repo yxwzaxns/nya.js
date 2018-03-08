@@ -15,7 +15,7 @@ Forthcoming support
 
 # Example
 
-    Nya.bing("name", ()=>{
+    Nya.bind("name", ()=>{
       console.log("The value of variable 'name' changes to  :" + Nya.name)
     })
 
